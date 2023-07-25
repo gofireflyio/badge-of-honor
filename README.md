@@ -1,4 +1,4 @@
-# ![BADGE](banner-light.jpg#gh-light-mode-only) ![BADGE](banner-dark.jpg#gh-dark-mode-only)
+# ![BADGE](banner-light.jpg#gh-light-mode-only) ![BADGE](banner-dark.jpggit #gh-dark-mode-only)
 # Which BADge do you deserve?
 We all make mistakes - some worse than others.  Let's acknowledge our shared imperfections and find humor in them. Together we can foster a culture that celebrates our humanity and the lessons learned from our errors.
 Award yourself, a friend, or a coworker one of Firefly's [BADges of Honor](https://www.firefly.ai/badges-of-honor)
@@ -99,8 +99,7 @@ Creates a system that is theoretically distributed but in practice behaves as a 
 Designs systems that lack proper redundancy and failover mechanisms, leading to frequent downtimes.
 
 #### Alert Dismisser
-<img src="" width=30% height=30%>
-![Alert Dismisser](Site-Reliability-Engineering/Alert-Dismisser.png)
+<img src="Site-Reliability-Engineering/Alert-Dismisser.png" width=30% height=30%>
 Ignores or turns off important system alerts, often leading to overlooked critical issues.
 
 #### Off-Call Duty Officer
@@ -130,8 +129,7 @@ Makes a big deal out of minor issues. Loves crisis management.
 Ensures their home IP is always whitelisted, causing potential security issues.
 
 #### Sock 2 Compliance
-<img src="" width=30% height=30%>
-![Sock 2 Compliance](SecOps/Sock-2-Compliance.png)
+<img src="SecOps/Sock-2-Compliance.png" width=30% height=30%>
 Uses this compliance certification as a shield to avoid implementing essential security practices.
 
 #### S3 Bucket Exposer
@@ -147,8 +145,7 @@ Talks a lot about compliance but fails to implement compliant practices.
 Always operates with the highest system permissions, disregarding the principle of least privilege.
 
 #### Zero-Trust Skeptic
-<img src="" width=30% height=30%>
-![Zero-Trust Skeptic](SecOps/Zero-Trust-Skeptic.png)
+<img src="SecOps/Zero-Trust-Skeptic.png" width=30% height=30%>
 Rejects the zero-trust security model, risking unauthorized access and data breaches.
 
 #### Always Run as Root
