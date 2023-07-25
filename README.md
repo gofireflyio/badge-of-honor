@@ -5,7 +5,7 @@ Award yourself, a friend, or a coworker one of Firefly's [BADges of Honor](https
 
 ## Software Engineering
 #### Shift-Right Advocate
-![Shift-Right Advocate](Software-Engineering/Shift-Right-Advocate.png)
+<img src="Software-Engineering/Shift-Right-Advocate.png" width=30% height=30%>
 Prefers testing in production rather than shifting it left to the development phase, risking user-facing issues.
 
 #### Development Velocity Manipulator
