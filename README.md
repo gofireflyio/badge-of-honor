@@ -1,4 +1,4 @@
-# ![BADGE](banner-light#gh-light-mode-only) ![BADGE](banner-dark#gh-dark-mode-only)
+# ![BADGE](banner-light.jpg#gh-light-mode-only) ![BADGE](banner-dark.jpg#gh-dark-mode-only)
 # Which BADge do you deserve?
 We all make mistakes - some worse than others.  Let's acknowledge our shared imperfections and find humor in them. Together we can foster a culture that celebrates our humanity and the lessons learned from our errors.
 Award yourself, a friend, or a coworker one of Firefly's [BADges of Honor](https://www.firefly.ai/badges-of-honor)
